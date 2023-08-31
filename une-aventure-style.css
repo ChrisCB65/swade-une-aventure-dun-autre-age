@@ -1,0 +1,120 @@
+section.journal-entry-content {
+	background: url("./artworks/compagnon/fond-papier.webp") no-repeat !important;
+	background-attachment: scroll !important;
+	background-size: cover !important;
+}
+
+header.journal-page-header {
+	background-image: url("./artworks/compagnon/chapter_header.webp");
+	background-repeat: no-repeat;
+	background-size: 550px;
+	background-position: center center;
+	width: 100%;
+	text-align: center;
+	height: 325px;
+	position: relative;
+}
+
+header.journal-page-header h1 {
+	font-family: "EB Garamond", serif !important;
+	font-weight: bold;
+	font-size: 24pt;
+	width: 450px !important;
+	text-align: center;
+	margin: 0px !important;
+	margin-top: 0px !important; 
+	padding: 20px;
+	border: 0px solid black !important;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+section.journal-page-content {
+	padding-left: 80px;
+	padding-right: 100px;	
+}
+
+section.journal-page-content h1,
+section.journal-page-content h2,
+section.journal-page-content h3,
+section.journal-page-content ul,
+section.journal-page-content p:not(:has(img)) {
+	font-family: "EB Garamond", serif;
+}
+
+
+section.journal-page-content h2,
+section.journal-page-content ul,
+section.journal-page-content h3,
+section.journal-page-content p {
+
+	text-align: justify;
+}
+
+section.journal-page-content ul {
+	margin-left: 0.5em;
+}
+
+section.journal-page-content li {
+	margin: 0.5em 0;
+}
+
+section.journal-page-content h1 {
+	font-weight: bold;
+
+	text-align: center;
+	border-width: 0px;
+}
+
+section.journal-page-content p:has(img) {
+	margin-bottom: 1.5em;
+	text-align: center;
+}
+
+section.journal-page-content p img {
+	border-radius: 1em;
+	box-shadow: 0 5px 10px rgba(0,0,0,0.5);
+}
+
+section.journal-page-content p:has(code) {
+	text-align: center;
+}
+
+section.journal-page-content p code img {
+	border-radius: 1em;
+	border: 0px solid black;
+	box-shadow: none;
+	align: center;
+}
+
+section.journal-page-content table tbody td p:not(:has(img)) {
+	margin: 0.5em 1em;
+}
+
+section.journal-page-content table tbody td h2 {
+	font-weight: bold;
+	text-align: center;
+}
+
+section.journal-page-content table td {
+	font-family: "EB Garamond", serif;
+	padding: 0.8em;
+	text-align: justify;
+	vertical-align: top;
+	font-size: 12px;
+}
+
+section.journal-page-content table td:first-child:has(img) {
+	width: 100px !important;
+	padding: 0;
+}
+
+section.journal-page-content table td img {
+	margin-right: 0px !important;
+	border: 0px;
+	border-bottom: 2px solid black;
+	box-shadow: 0 5px 7px rgba(0,0,0,0.5) !important;
+	width: 100px !important;
+}

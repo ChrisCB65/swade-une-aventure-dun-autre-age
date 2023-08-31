@@ -1,0 +1,17 @@
+{
+	"id":"une-aventure-campagne",
+	"title": "Une aventure d'un autre age - Compendiums aventure et Compagnon",
+	"description": "Tous les éléments commun de la campagne Un Aventure d'un autre age",
+	"version": "1.0.0",
+	"authors": [{ "name": "Chris 'Torone' Cussat-Blanc", "email": "chriscb@chriscb.com", "discord": "ChrisCB#7581"}],
+	"compatibility": {"minimum":"10", "verified":"10"},
+	"styles": [ "une-aventure-style.css" ],
+	"packs": [
+		{
+			"label": "Une aventure d'un autre âge : L'Aventure",
+			"type": "Adventure",
+			"name": "adventure",
+			"path": "packs/adventure.db",
+			"system": "swade"
+		}]
+}

@@ -1,17 +1,26 @@
 {
-	"id":"une-aventure-campagne",
+	"id":"swade-une-aventure-dun-autre-age",
 	"title": "Une aventure d'un autre age - Compendiums aventure et Compagnon",
-	"description": "Tous les éléments commun de la campagne Un Aventure d'un autre age",
+	"description": "Tous les éléments de la campagne Un Aventure d'un autre age sous forme d'un compendium aventure complet",
 	"version": "1.0.0",
-	"authors": [{ "name": "Chris 'Torone' Cussat-Blanc", "email": "chriscb@chriscb.com", "discord": "ChrisCB#7581"}],
-	"compatibility": {"minimum":"10", "verified":"10"},
+	"authors": [{ 
+		"name": "Chris 'Torone' Cussat-Blanc",
+		"email": "chriscb@chriscb.com",
+		"discord": "ChrisCB#7581"
+	}],
+	"compatibility": {
+		"minimum":"10",
+		"verified":"11"
+	},
 	"styles": [ "une-aventure-style.css" ],
-	"packs": [
-		{
-			"label": "Une aventure d'un autre âge : L'Aventure",
-			"type": "Adventure",
-			"name": "adventure",
-			"path": "packs/adventure.db",
-			"system": "swade"
-		}]
+	"packs": [{
+		"label": "Une aventure d'un autre âge : L'Aventure",
+		"type": "Adventure",
+		"name": "adventure",
+		"path": "packs/adventure.db",
+		"system": "swade"
+	}],
+	"url": "https://github.com/ChrisCB65/swade-une-aventure-dun-autre-age",
+	"manifest": "https://raw.githubusercontent.com/ChrisCB65/swade-une-aventure-dun-autre-age/main/module.json",
+	"download": "https://github.com/ChrisCB65/torone-music-loops-for-foundry/releases/download/v0.1.0-beta/torone-music-loops-pack.zip"
 }

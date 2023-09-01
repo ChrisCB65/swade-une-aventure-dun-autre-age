@@ -2,7 +2,7 @@
 	"id":"swade-une-aventure-dun-autre-age",
 	"title": "Une aventure d'un autre age - Compendiums aventure et Compagnon",
 	"description": "Tous les éléments de la campagne Un Aventure d'un autre age sous forme d'un compendium aventure complet",
-	"version": "1.0.0",
+	"version": "0.0.3",
 	"authors": [{ 
 		"name": "Chris 'Torone' Cussat-Blanc",
 		"email": "chriscb@chriscb.com",
@@ -22,5 +22,5 @@
 	}],
 	"url": "https://github.com/ChrisCB65/swade-une-aventure-dun-autre-age",
 	"manifest": "https://raw.githubusercontent.com/ChrisCB65/swade-une-aventure-dun-autre-age/main/module.json",
-	"download": "https://github.com/ChrisCB65/swade-une-aventure-dun-autre-age/archive/refs/tags/v0.0.2-alpha.zip"
+	"download": "https://github.com/ChrisCB65/swade-une-aventure-dun-autre-age/archive/refs/tags/v0.0.3-alpha.zip"
 }

@@ -1,7 +1,8 @@
 # swade-une-aventure-dun-autre-age
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/ChrisCB65/swade-une-aventure-dun-autre-age/main/artworks/compagnon/couverture.webp" width="50%">
-<h1>Une aventure d'un autre âge</h1>
+<h1 align="center">Une aventure d'un autre âge</h1>
 </div>
 
 <b>Le Royaume de Calys</b> est un univers fantasy pour Savage Worlds. Vous y trouverez toutes le nécessaires pour raconter des aventures épiques ou permettre à de simple aventuriers d’explorer les Terres Sauvages d'une nation gouvernée par de puissantes guildes où la population est rassemblée dans de grande cités états.
@@ -15,3 +16,8 @@
 <li>La carte anoté du Royaume de Calys</li>
 <li>Les documents trouvés par les personnages au court de l'aventure.</li>
 </ul>
+
+Installation
+
+Ajoutez l'adresse du manifest dans Foundry : https://raw.githubusercontent.com/ChrisCB65/swade-une-aventure-dun-autre-age/main/module.json
+

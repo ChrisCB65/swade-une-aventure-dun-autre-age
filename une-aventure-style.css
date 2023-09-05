@@ -40,6 +40,7 @@ section.journal-page-content h1,
 section.journal-page-content h2,
 section.journal-page-content h3,
 section.journal-page-content ul,
+section.journal-page-content ol,
 section.journal-page-content p:not(:has(img)) {
 	font-family: "EB Garamond", serif;
 }
@@ -117,4 +118,14 @@ section.journal-page-content table td img {
 	border-bottom: 2px solid black;
 	box-shadow: 0 5px 7px rgba(0,0,0,0.5) !important;
 	width: 100px !important;
+}
+
+section.journal-page-content img[style*="float:left"] {
+	margin-right: 10px;
+	margin-bottom: 5px;
+}
+
+section.journal-page-content img[style*="float:right"] {
+	margin-left: 10px;
+	margin-bottom: 5px;
 }

@@ -1,6 +1,13 @@
 <h2>Change Log</h2>
 
 <details>
+<summary>0.0.7-alpha</summary>
+<ul>
+	<li><b>Fixed</b> : Forget to add new files to the release.</li>
+</ul>
+</details>
+
+<details>
 <summary>0.0.6-alpha</summary>
 <ul>
 	<li><b>Edit</b> : Titre de certains chapitres.</li>

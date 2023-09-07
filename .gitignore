@@ -1,0 +1,5 @@
+# ALL .log files
+*.log
+
+# ALL .psd files
+*.psd

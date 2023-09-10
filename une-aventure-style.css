@@ -1,11 +1,11 @@
 section.journal-entry-content {
-	background: url("./artworks/compagnon/fond-papier.webp") no-repeat !important;
+	background: url("./artworks/fond-papier.webp") no-repeat !important;
 	background-attachment: scroll !important;
 	background-size: cover !important;
 }
 
 header.journal-page-header {
-	background-image: url("./artworks/compagnon/chapter_header.webp");
+	background-image: url("./artworks/chapter_header.webp");
 	background-repeat: no-repeat;
 	background-size: 550px;
 	background-position: center center;

@@ -7,7 +7,8 @@
 	<li><b>Fixed</b> : Tiles and background are now pointing to the right path.</li>
 	<li><b>Fixed</b> : Link to illustrations are now pointing to the right path in the companion.</li>
 	<li><b>Updated</b> : 11 of the 16 cities have now their own adventure pack.</li>
-	<li><b>Added</b> : Journal entry for Agramor
+	<li><b>Added</b> : Journal entry for Agramor</li>
+	<li><b>Added</b> : Added documents for chapter 1</li>
 </ul>
 </details>
 

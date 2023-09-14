@@ -27,7 +27,7 @@
 </details>
 
 
-<details>
+<details>s
 <summary>0.0.8-alpha</summary>
 <ul>
 	<li><b>Fixed</b> : Problem with the manifest.</li>

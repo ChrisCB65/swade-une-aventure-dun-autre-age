@@ -1,5 +1,11 @@
 <h2>Change Log</h2>
 
+<details>
+<summary>0.0.11-alpha</summary>
+<ul>
+	<li><b>Added</b> : Story, scenes and actors for chapter 5</li>
+</ul>
+</details>
 
 <details>
 <summary>0.0.10-alpha</summary>

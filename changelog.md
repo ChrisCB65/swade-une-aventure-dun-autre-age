@@ -1,6 +1,14 @@
 <h2>Change Log</h2>
 
 <details>
+<summary>0.0.14-alpha</summary>
+<ul>
+	<li><b>Updated</b> : Story, scenes and actors for chapter 2</li>
+	<li><b>Added</b> : Anexe 1 : All documents available to players during the adventure.</li>
+</ul>
+</details>
+
+<details>
 <summary>0.0.13-alpha</summary>
 <ul>
 	<li><b>Added</b> : Story, scenes and actors for chapter 2</li>

@@ -1,5 +1,16 @@
 <h2>Change Log</h2>
 
+
+<details>
+<summary>0.0.15-alpha</summary>
+<ul>
+	<li><b>Updated</b> : map of Agramor has been remaded.</li>
+	<li><b>Updated</b> : map of Valas has been replaced by a simple optimised webp.</li>
+	<li><b>Updated</b> : Chapter V stories.</li>
+	<li><b>Added</b> : Chapter V - NPC sheet draft (without any attributes), portraits and token.</li>
+</ul>
+</details>
+
 <details>
 <summary>0.0.14-alpha</summary>
 <ul>
